@@ -9,3 +9,5 @@ hi
 ##how to contribute
 ##deployment
 this is example
+training
+local file sysytem
