@@ -1,3 +1,4 @@
+bisect=log --all --graph --decorate --oneline 
 [merge]
 tool = p4merge
 [mergetool "p4merge"]
